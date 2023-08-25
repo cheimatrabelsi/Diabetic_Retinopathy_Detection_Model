@@ -1,0 +1,2 @@
+#####
+you need to open a terminal and to run mlflow server in order to activate the mlflow server

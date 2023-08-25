@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/54b7309e286c48a48a5da0dfd34d1e75/artifacts
+end_time: 1692876857197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54b7309e286c48a48a5da0dfd34d1e75
+run_name: burly-dolphin-788
+run_uuid: 54b7309e286c48a48a5da0dfd34d1e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692876595986
+status: 4
+tags: []
+user_id: hp

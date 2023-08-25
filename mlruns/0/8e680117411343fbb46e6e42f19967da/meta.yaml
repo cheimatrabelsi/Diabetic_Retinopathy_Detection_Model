@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8e680117411343fbb46e6e42f19967da/artifacts
+end_time: 1692879275356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e680117411343fbb46e6e42f19967da
+run_name: handsome-donkey-513
+run_uuid: 8e680117411343fbb46e6e42f19967da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692879270276
+status: 4
+tags: []
+user_id: hp

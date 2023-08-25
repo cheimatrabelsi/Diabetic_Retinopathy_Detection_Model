@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8110b3ee26d4bdc93dba6d9b9729d8a/artifacts
+end_time: 1692876575201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8110b3ee26d4bdc93dba6d9b9729d8a
+run_name: rambunctious-eel-130
+run_uuid: e8110b3ee26d4bdc93dba6d9b9729d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692876511676
+status: 4
+tags: []
+user_id: hp

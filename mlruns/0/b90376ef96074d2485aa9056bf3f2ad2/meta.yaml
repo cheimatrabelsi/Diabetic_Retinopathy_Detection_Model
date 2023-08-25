@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b90376ef96074d2485aa9056bf3f2ad2/artifacts
+end_time: 1692879824490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b90376ef96074d2485aa9056bf3f2ad2
+run_name: skittish-auk-415
+run_uuid: b90376ef96074d2485aa9056bf3f2ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692879824003
+status: 4
+tags: []
+user_id: hp

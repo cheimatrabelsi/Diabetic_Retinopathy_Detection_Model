@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a05cb7f134da4f06b76476324fd22bf0/artifacts
+end_time: 1692880946033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05cb7f134da4f06b76476324fd22bf0
+run_name: nebulous-ape-630
+run_uuid: a05cb7f134da4f06b76476324fd22bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692880683871
+status: 3
+tags: []
+user_id: hp

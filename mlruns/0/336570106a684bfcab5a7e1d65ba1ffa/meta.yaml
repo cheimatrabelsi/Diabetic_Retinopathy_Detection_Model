@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/336570106a684bfcab5a7e1d65ba1ffa/artifacts
+end_time: 1692871883217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 336570106a684bfcab5a7e1d65ba1ffa
+run_name: popular-smelt-530
+run_uuid: 336570106a684bfcab5a7e1d65ba1ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692871583215
+status: 3
+tags: []
+user_id: hp
